@@ -1,1 +1,1 @@
-Curso de Git & Github
+Git and Github course by Sergie Code
